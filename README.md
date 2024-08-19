@@ -1,2 +1,3 @@
-# Cadastro_de_dados_clientes
-Cadastro de clientes Vba
+# Cadastro de dados de clientes
+
+Vba para consulta, cadastro e edição de clientes.
